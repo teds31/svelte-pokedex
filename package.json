@@ -24,7 +24,7 @@
 		"tailwindcss": "^2.2.4"
 	},
 	"engines": {
-		"node":">=12.2"
+		"node":"12.2"
 	},
 	"type": "module",
 	"dependencies": {
